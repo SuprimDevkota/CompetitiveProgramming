@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+
 using namespace std;
 
 int main(){
@@ -14,7 +15,7 @@ int main(){
 
     int lastAnswer = 0;
 
-    string queries[q];
+    string* queries = new string [q];
     for(int i = 0; i < q; ++i){
         getline(cin>>ws, queries[i]);       //cin>>ws negates whitespaces
     }
