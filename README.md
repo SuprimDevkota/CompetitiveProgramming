@@ -9,5 +9,4 @@ In the order of:
 6. Binary Search tree
 7. Height balanced tree
 8. Graphs
-9  Directed graphs<br>
-10. Hashing
+9  Directed graphs and Hashing
