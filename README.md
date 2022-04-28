@@ -1,3 +1,5 @@
+![Complexity](https://github.com/SuprimDevkota/CompetitiveProgramming/blob/master/complexity.png)
+
 -  Arrays
 -  Linked list
 -  Stack
@@ -8,4 +10,3 @@
 -  Graphs
 -  Directed Graphs
 -  Hashing
-![Complexity](https://github.com/SuprimDevkota/CompetitiveProgramming/blob/master/complexity.png)
